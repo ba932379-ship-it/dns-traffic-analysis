@@ -17,3 +17,7 @@ This project demonstrates DNS traffic analysis using Wireshark.
 
 ## Notes:
 This is my first cybersecurity project focused on network analysis.
+
+## Screenshot
+
+![DNS Analysis](Screenshot 2026-03-26 1...)
