@@ -20,4 +20,4 @@ This is my first cybersecurity project focused on network analysis.
 
 ## Screenshot
 
-![DNS Analysis](Screenshot 2026-03-26 153444)
+![DNS Analysis](Screenshot 2026-03-26 152440.png)
